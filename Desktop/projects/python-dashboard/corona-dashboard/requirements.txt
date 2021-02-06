@@ -5,4 +5,5 @@ dash-core-components==1.10.2
 dash-html-components==1.0.3
 pandas @ file:///opt/concourse/worker/volumes/live/5ef6147e-ea92-446e-4065-0c8c7435293f/volume/pandas_1592841676717/work
 plotly==4.14.3
+gunicorn==20.0.4
 
